@@ -15,7 +15,7 @@ project_root/  # Blank Solution
 │   │   │   │   ├── Commands/         
 │   │   │   │   ├── Queries/     
 │   │   ├── Interfaces/
-│   │   │   ├── IRepository.cs         
+│   │   │   ├── IRepository.cs         # interface
 │   │   │   └── ...
 │   │   ├── Profiles/
 │   │   │   ├── MappingProfile.cs  
@@ -23,11 +23,26 @@ project_root/  # Blank Solution
 │   │   │   ├── BaseResponse.cs  
 │   ├── Domain/           # Class Library
 │   │   ├── Entites/
+│   │   │   ├── Author.cs  
+│   │   │   ├── Blog.cs  
 │   │   ├── Settings/
 ├── Infrastructure/
 │   ├── Infrastructure/           # Class Library
+│   │   ├── Extensions/
+│   │   │   ├── InfrastructureDIRegistration.cs    # AddInfrastructureServices
+│   │   ├── Repositories/
+│   │   │   ├── Repository.cs      # implement interface
+│   │   ├── SeedData/
+│   │   │   ├── DBInitializerSeedData.cs     
+│   │   ├── Services/
+│   │   │   ├── AzureServiceBusService.cs      
+│   │   ├── BlogDbContext.cs        
 ├── Persentation/
 │   ├── WebAPI/           # ASP.NET Core Web API
 └── Test/
 │   ├── Application.UnitTests/           # xUnit Test Project
 ```
+
+# test all file ok
+
+right click main solution run Build Solution (Ctrl+Shift+B)

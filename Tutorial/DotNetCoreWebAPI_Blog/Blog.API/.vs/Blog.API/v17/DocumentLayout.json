@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\application\\extensions\\applicationdiregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|solutionrelative:application\\extensions\\applicationdiregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\infrastructure\\extensions\\infrastructurediregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extensions\\infrastructurediregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|solutionrelative:application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\infrastructure\\services\\azureservicebusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\azureservicebusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\application\\proflies\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|solutionrelative:application\\proflies\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\infrastructure\\seeddata\\dbinitializerseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeddata\\dbinitializerseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\application\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D3D9D702-50A4-4D27-94B5-CE0C5C2BC896}|Application\\Application.csproj|solutionrelative:application\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|c:\\engr_coderepo\\celesticawork\\dotnettutorial\\tutorial\\dotnetcorewebapi_blog\\blog.api\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB4A8F-E4C8-4578-B4C8-D77342B14CAB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseResponse.cs",
-              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Responses\\BaseResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Responses\\BaseResponse.cs",
-              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Responses\\BaseResponse.cs",
-              "RelativeToolTip": "Application\\Responses\\BaseResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureDIRegistration.cs",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Extensions\\InfrastructureDIRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Extensions\\InfrastructureDIRegistration.cs",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Extensions\\InfrastructureDIRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\Extensions\\InfrastructureDIRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T06:28:02.505Z",
+              "WhenOpened": "2024-04-30T07:33:40.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureServiceBusService.cs",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Services\\AzureServiceBusService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AzureServiceBusService.cs",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Services\\AzureServiceBusService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AzureServiceBusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:31:54.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Proflies\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Application\\Proflies\\MappingProfile.cs",
-              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Proflies\\MappingProfile.cs",
-              "RelativeToolTip": "Application\\Proflies\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "DBInitializerSeedData.cs",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\SeedData\\DBInitializerSeedData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SeedData\\DBInitializerSeedData.cs",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\SeedData\\DBInitializerSeedData.cs",
+              "RelativeToolTip": "Infrastructure\\SeedData\\DBInitializerSeedData.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T06:23:54.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:21:49.949Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\README.md",
-              "RelativeDocumentMoniker": "Application\\README.md",
-              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\README.md",
-              "RelativeToolTip": "Application\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-30T06:11:31.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDIRegistration.cs",
-              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Extensions\\ApplicationDIRegistration.cs",
-              "RelativeDocumentMoniker": "Application\\Extensions\\ApplicationDIRegistration.cs",
-              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Extensions\\ApplicationDIRegistration.cs",
-              "RelativeToolTip": "Application\\Extensions\\ApplicationDIRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T06:01:47.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:15:17.632Z"
             }
           ]
         }
