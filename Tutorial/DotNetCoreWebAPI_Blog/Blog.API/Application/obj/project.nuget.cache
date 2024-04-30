@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "334xIpzB4JY3frcK8pGbNgAem8uo32xzMwIRViYyg9W0N8AeWNlLbH3CpfAaITGylOzDsPPnCg/LWBZLZFcWXA==",
+  "dgSpecHash": "K7TllGnhhvbbYYBo48ahcFWhDOTNTMwqtK8MiLJWhvT3g6+2EDvOZ1uPzA9yS2ENQY07QSu/OJiwTxxKigktCw==",
   "success": true,
   "projectFilePath": "C:\\Engr_CodeRepo\\CelesticaWork\\DotNetTutorial\\Tutorial\\DotNetCoreWebAPI_Blog\\Blog.API\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\th26013484\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\th26013484\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

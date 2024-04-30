@@ -1,13 +1,14 @@
 # [how to implement Clean architecture skeleton step by step](https://www.youtube.com/watch?v=N6cyzeSGlw8)
 
 # project structure
+
 ```
 project_root/  # Blank Solution
 │
 ├── Core/
 │   ├── Applicatoin/           # Class Library
 │   │   ├── Extensions/
-│   │   │   ├── ApplicationDIRegistration.cs
+│   │   │   ├── ApplicationDIRegistration.cs    # AddApplicationService
 │   │   ├── Features/
 │   │   │   ├── Author/         
 │   │   │   ├── Blog/         
@@ -16,6 +17,10 @@ project_root/  # Blank Solution
 │   │   ├── Interfaces/
 │   │   │   ├── IRepository.cs         
 │   │   │   └── ...
+│   │   ├── Profiles/
+│   │   │   ├── MappingProfile.cs  
+│   │   ├── Responses/
+│   │   │   ├── BaseResponse.cs  
 │   ├── Domain/           # Class Library
 │   │   ├── Entites/
 │   │   ├── Settings/
