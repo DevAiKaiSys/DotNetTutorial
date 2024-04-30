@@ -7,9 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Author\" />
-    <Folder Include="Features\Blog\Commands\" />
-    <Folder Include="Features\Blog\Queries\" />
+    <Folder Include="Features\Authors\" />
+    <Folder Include="Features\Blogs\Commands\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +17,10 @@
     <PackageReference Include="MediatR" Version="12.2.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
